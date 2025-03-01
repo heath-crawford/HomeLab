@@ -1,0 +1,12 @@
+﻿
+InterfaceAlias              IPAddress                              
+--------------              ---------                              
+Ethernet                    fe80::15a5:f7ee:215d:1caf%8            
+Ethernet                    2607:fb90:3321:a97b:b17f:6aa4:8ee6:53c9
+Ethernet                    2607:fb90:3321:a97b:9f72:e8ca:59c0:1160
+Ethernet                    2607:fb90:3321:a97b::ba0b              
+Loopback Pseudo-Interface 1 ::1                                    
+Ethernet                    192.168.12.50                          
+Loopback Pseudo-Interface 1 127.0.0.1                              
+
+
